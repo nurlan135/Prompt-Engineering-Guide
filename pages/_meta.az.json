@@ -1,0 +1,25 @@
+{
+  "index": "Prompt Mühəndisliyi",
+  "introduction": "Giriş",
+  "techniques": "Texnikalar",
+  "applications": "Tətbiqlər",
+  "models": "Modellər",
+  "risks": "Risklər və sui-istifadələr",
+  "papers": "Sənədlər",
+  "tools": "Alətlər",
+  "notebooks": "Dəftərlər",
+  "datasets": "Məlumat Şəbəkələri",
+  "readings": "Əlavə Oxumalar",
+  "course":{
+    "title": "Prompt Mühəndisliyi Kursu",
+    "type": "səhifə"
+  },
+  "services": {
+    "title": "Xidmətlər",
+    "type": "səhifə"
+  },
+  "about": {
+    "title": "Haqqında",
+    "type": "səhifə"
+  }
+}
